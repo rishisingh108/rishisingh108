@@ -11,6 +11,10 @@
   <a href="mailto:rishisingh31102004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <!-- Add your resume link here -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -19,8 +23,9 @@
 
 - 🎓 B.Tech CSIT student at **Ajay Kumar Garg Engineering College**, Ghaziabad (2023–2027)
 - 💼 Currently interning as a **Software Developer Intern @ ITQHub** (EdTech, Hyderabad) — full-stack dev, deployment & maintenance
-- 🛠️ Building AI-powered full-stack products from scratch to production deployment
-- 📚 Actively strengthening **DSA** for upcoming campus placements
+- 🛠️ Shipped 4+ full-stack AI-powered products, from architecture to production deployment
+- 📚 Strengthening **DSA, OOPs, DBMS, OS & Computer Networks** for upcoming placements
+- ☁️ Exploring **DevOps & Cloud (AWS, CI/CD, Docker)** to build and ship production-ready systems
 - 🌱 Always learning, always shipping
 
 ---
@@ -71,7 +76,11 @@ A responsive e-commerce app with product browsing, search, category filtering, a
 
 **Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**AI/Cloud/Tools:** ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**DevOps & Cloud:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+**Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Core CS Fundamentals:** `OOPs` `DBMS` `Operating Systems` `Computer Networks` `Data Structures & Algorithms`
 
 ---
 
