@@ -13,7 +13,7 @@
   </a>
   <!-- Add your resume link here -->
   <a href="#">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+    <img src="https://drive.google.com/file/d/12PCTYS1dBLE2DB_j4XXi1oMBM3KQJSDL/view?usp=sharing" />
   </a>
 </p>
 
