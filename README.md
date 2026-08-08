@@ -5,14 +5,14 @@
   <a href="https://www.linkedin.com/in/rishi-singh-064419333">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Singh_Rishi__">
+  <a href="https://twitter.com/Rishi_Singh__">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:rishisingh31102004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Add your resume link here -->
-  <a href="https://drive.google.com/file/d/12PCTYS1dBLE2DB_j4XXi1oMBM3KQJSDL/view?usp=sharing">
+  <a href="#">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
@@ -21,12 +21,22 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSIT student at **Ajay Kumar Garg Engineering College**, Ghaziabad (2023–2027)
+- 🎓 B.Tech CSIT student at **Ajay Kumar Garg Engineering College**, Ghaziabad (2023–2027) — **CGPA: 7.532**
 - 💼 Currently interning as a **Software Developer Intern @ ITQHub** (EdTech, Hyderabad) — full-stack dev, deployment & maintenance
+- 💻 Previously **Junior Frontend Developer Intern @ Yuva Intern**
 - 🛠️ Shipped 4+ full-stack AI-powered products, from architecture to production deployment
 - 📚 Strengthening **DSA, OOPs, DBMS, OS & Computer Networks** for upcoming placements
 - ☁️ Exploring **DevOps & Cloud (AWS, CI/CD, Docker)** to build and ship production-ready systems
 - 🌱 Always learning, always shipping
+
+---
+
+### 💼 Experience
+
+| Role | Company | Details |
+|---|---|---|
+| Software Developer Intern | **ITQHub** (EdTech, Hyderabad) | Full-stack dev, deployment & maintenance · [Offer Letter](#) |
+| Junior Frontend Developer Intern | **Yuva Intern** | Frontend development · [Certificate](#) |
 
 ---
 
