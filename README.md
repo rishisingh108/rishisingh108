@@ -31,19 +31,19 @@
 An end-to-end recruitment platform inspired by tools like Greenhouse & Lever, with AI-driven resume scoring and video interviews.
 - **Stack:** Next.js 14 (Vercel) · NestJS (Railway) · PostgreSQL + Prisma · Redis + BullMQ · OpenAI GPT-4o · Pinecone · Jitsi Meet
 - **Highlights:** ATS scoring engine, recruiter/candidate dashboards, AI chatbot, real-time video interviews
-- 🔗 [Repository](https://github.com/rishisingh108/SmartHire)
+- 🌐 [Live Demo](https://smart-hire-mu-ruby.vercel.app/) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/rishisingh108/SmartHire)
 
 #### 🏗️ SiteGuide AI — Construction Management Platform
 An AI-powered construction platform for project planning, cost estimation, and site monitoring, with a Gemini-powered AI Copilot.
 - **Stack:** React + Vite, Tailwind CSS, Framer Motion, Recharts · Node.js + Express, MongoDB, Google Gemini AI
 - **Highlights:** AI Copilot for construction Q&A, interactive dashboard, map-based multi-site visualization, smart cost estimator, intelligent scheduler
-- 🔗 [Repository](https://github.com/ThakurRishiSingh1706/SiteGuide)
+- 🌐 [Live Demo](https://siteguide-ai.vercel.app/) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/ThakurRishiSingh1706/SiteGuide)
 
 #### 🎓 ITQHub Website
 Company website for an EdTech platform — designed, built, and maintained during my internship.
 - **Stack:** React.js, Node.js/Express, MongoDB/MySQL
 - **Highlights:** Full UI/UX redesign, design token system, blog system (13 articles), testimonials, AI chatbot
-- 🔗 [ITqHub-Website](https://github.com/rishisingh108/ITqHub-Website) &nbsp;|&nbsp; [itqhub-backend](https://github.com/rishisingh108/itqhub-backend)
+- 🌐 [Live Demo](https://itqhub-website.vercel.app/) &nbsp;|&nbsp; 🔗 [ITqHub-Website](https://github.com/rishisingh108/ITqHub-Website) &nbsp;|&nbsp; [itqhub-backend](https://github.com/rishisingh108/itqhub-backend)
 
 #### 🛍️ ShopZone — E-commerce Website
 A responsive e-commerce app with product browsing, search, category filtering, and pagination.
