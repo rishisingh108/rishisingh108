@@ -35,8 +35,8 @@
 
 | Role | Company | Details |
 |---|---|---|
-| Software Developer Intern | **ITQHub** (EdTech, Hyderabad) | Full-stack dev, deployment & maintenance · [Offer Letter](#) |
-| Junior Frontend Developer Intern | **Yuva Intern** | Frontend development · [Certificate](#) |
+| Software Developer Intern | **ITQHub** (EdTech, Hyderabad) | Full-stack dev, Deployment & Maintenance · [Offer Letter](#) |
+| Junior Frontend Developer Intern | **Yuva Intern** | Frontend Development · [Certificate](#) |
 
 ---
 
