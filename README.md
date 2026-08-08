@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rishi Singh 👋</h1>
+<h3 align="center">Full Stack Developer | Building AI-powered products end-to-end</h3>
 
-<!--
-**rishisingh108/rishisingh108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishi-singh-064419333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Rishi_Singh__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:rishisingh31102004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.Tech CSIT student at **Ajay Kumar Garg Engineering College**, Ghaziabad (2023–2027)
+- 💼 Currently interning as a **Software Developer Intern @ ITQHub** (EdTech, Hyderabad) — full-stack dev, deployment & maintenance
+- 🛠️ Building AI-powered full-stack products from scratch to production deployment
+- 📚 Actively strengthening **DSA** for upcoming campus placements
+- 🌱 Always learning, always shipping
+
+---
+
+### 🧩 Featured Projects
+
+#### 🎯 SmartHire — AI-Powered Hiring Platform
+An end-to-end recruitment platform inspired by tools like Greenhouse & Lever, with AI-driven resume scoring and video interviews.
+- **Stack:** Next.js 14 (Vercel) · NestJS (Railway) · PostgreSQL + Prisma · Redis + BullMQ · OpenAI GPT-4o · Pinecone · Jitsi Meet
+- **Highlights:** ATS scoring engine, recruiter/candidate dashboards, AI chatbot, real-time video interviews
+- 🔗 [Repository](https://github.com/rishisingh108/SmartHire)
+
+#### 🏗️ SiteGuide AI — Construction Management Platform
+An AI-powered construction platform for project planning, cost estimation, and site monitoring, with a Gemini-powered AI Copilot.
+- **Stack:** React + Vite, Tailwind CSS, Framer Motion, Recharts · Node.js + Express, MongoDB, Google Gemini AI
+- **Highlights:** AI Copilot for construction Q&A, interactive dashboard, map-based multi-site visualization, smart cost estimator, intelligent scheduler
+- 🔗 [Repository](https://github.com/ThakurRishiSingh1706/SiteGuide)
+
+#### 🎓 ITQHub Website
+Company website for an EdTech platform — designed, built, and maintained during my internship.
+- **Stack:** React.js, Node.js/Express, MongoDB/MySQL
+- **Highlights:** Full UI/UX redesign, design token system, blog system (13 articles), testimonials, AI chatbot
+- 🔗 [ITqHub-Website](https://github.com/rishisingh108/ITqHub-Website) &nbsp;|&nbsp; [itqhub-backend](https://github.com/rishisingh108/itqhub-backend)
+
+#### 🛍️ ShopZone — E-commerce Website
+A responsive e-commerce app with product browsing, search, category filtering, and pagination.
+- **Stack:** React, Tailwind CSS, React Router, DummyJSON API
+- 🌐 [Live Demo](https://react-mini-project-ecom-website.vercel.app) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/rishisingh108/Shop-Ecommerce)
+
+---
+
+### 🕹️ Other Projects
+
+| Project | Description | Live Demo |
+|---|---|---|
+| 🎮 [Tic-Tac-Toe Game](https://github.com/rishisingh108/Tic-Tac-Toe-Game) | Classic 2-player game with reset & winner announcement | [Play](https://rishisingh108.github.io/Tic-Tac-Toe-Game/) |
+| ✂️ [Rock Paper Scissors](https://github.com/rishisingh108/rock-paper-scissors-game) | Animated game with live score tracking vs computer | [Play](https://rishisingh108.github.io/rock-paper-scissors-game/) |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI/Cloud/Tools:** ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishisingh108&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishisingh108&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishisingh108&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>📩 Open to SDE Internship/Full-time opportunities — let's connect!</i></p>
