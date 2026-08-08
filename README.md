@@ -80,7 +80,7 @@ A responsive e-commerce app with product browsing, search, category filtering, a
 
 **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Core CS Fundamentals:** `OOPs` `DBMS` `Operating Systems` `Computer Networks` `Data Structures & Algorithms`
+**Core CS Fundamentals:** ![OOPs](https://img.shields.io/badge/-OOPs-4B5563?style=flat-square) ![DBMS](https://img.shields.io/badge/-DBMS-4B5563?style=flat-square) ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-4B5563?style=flat-square) ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-4B5563?style=flat-square) ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B5563?style=flat-square)
 
 ---
 
