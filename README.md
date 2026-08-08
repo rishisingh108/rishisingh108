@@ -13,7 +13,7 @@
   </a>
   <!-- Add your resume link here -->
   <a href="#">
-    <img src="https://drive.google.com/file/d/12PCTYS1dBLE2DB_j4XXi1oMBM3KQJSDL/view?usp=sharing" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@ A responsive e-commerce app with product browsing, search, category filtering, a
 
 **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Core CS Fundamentals:** ![OOPs](https://img.shields.io/badge/-OOPs-4B5563?style=flat-square) ![DBMS](https://img.shields.io/badge/-DBMS-4B5563?style=flat-square) ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-4B5563?style=flat-square) ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-4B5563?style=flat-square) ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B5563?style=flat-square)
+**Core CS Fundamentals:** ![OOPs](https://img.shields.io/badge/🧱_OOPs-1D4ED8?style=flat-square&logoColor=white) ![DBMS](https://img.shields.io/badge/🗄️_DBMS-047857?style=flat-square&logoColor=white) ![Operating Systems](https://img.shields.io/badge/💻_Operating%20Systems-B91C1C?style=flat-square&logoColor=white) ![Computer Networks](https://img.shields.io/badge/🌐_Computer%20Networks-7C3AED?style=flat-square&logoColor=white) ![DSA](https://img.shields.io/badge/🧠_DSA-CA8A04?style=flat-square&logoColor=white)
 
 ---
 
