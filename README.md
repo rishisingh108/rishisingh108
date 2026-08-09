@@ -55,7 +55,7 @@ An end-to-end recruitment platform inspired by tools like Greenhouse & Lever, wi
 An AI-powered construction platform for project planning, cost estimation, and site monitoring, with a Gemini-powered AI Copilot.
 - **Stack:** React + Vite, Tailwind CSS, Framer Motion, Recharts · Node.js + Express, MongoDB, Google Gemini AI
 - **Highlights:** AI Copilot for construction Q&A, interactive dashboard, map-based multi-site visualization, smart cost estimator, intelligent scheduler
-- 🌐 [Live Demo](https://siteguide-ai.vercel.app/) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/ThakurRishiSingh1706/SiteGuide)
+- 🌐 [Live Demo](https://site-guide-six.vercel.app/) &nbsp;|&nbsp; 🔗 [Repository](https://github.com/ThakurRishiSingh1706/SiteGuide)
 
 #### 🎓 ITQHub Website
 Company website for an EdTech platform — designed, built, and maintained during my internship.
