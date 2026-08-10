@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rishi Singh 👋</h1>
+<h1 align="center">Hi, I'm Rishi Singh </h1>
 <h3 align="center">Full Stack Developer | Building AI-powered products end-to-end</h3>
 
 <p align="center">
