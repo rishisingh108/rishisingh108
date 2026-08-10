@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rishi Singh </h1>
+<h1 align="center">Hi, I'm Rishi Singh 👋</h1>
 <h3 align="center">Full Stack Developer | Building AI-powered products end-to-end</h3>
 
 <p align="center">
@@ -102,7 +102,7 @@ A responsive e-commerce app with product browsing, search, category filtering, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-omega-lac-56.vercel.app/api?username=rishisingh108&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-omega-lac-56.vercel.app/api?username=rishisingh108&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true" />
   <img height="165" src="https://github-readme-stats-omega-lac-56.vercel.app/api/top-langs/?username=rishisingh108&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
