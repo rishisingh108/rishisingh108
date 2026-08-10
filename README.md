@@ -5,7 +5,7 @@
   <a href="https://rishi-portfolio-eight-ochre.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/12PCTYS1dBLE2DB_j4XXi1oMBM3KQJSDL/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CjUdrB9snNGJQoWi09G4LfgnGe73EyRR/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Rishisinghh108/">
